@@ -1,12 +1,14 @@
 {
   "name": "nobita-middleware",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "nobita-middleware",
   "main": "lib/nobita-middleware.js",
   "dependencies": {},
   "devDependencies": {
     "koa": "^2.5.0",
-    "koa-compose": "4.1.0"
+    "koa-compose": "4.1.0",
+    "nobita-require": "0.0.2",
+    "nobita-readdir": "0.0.2"
   },
   "files": [
     "lib"
