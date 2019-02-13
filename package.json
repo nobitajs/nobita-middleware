@@ -1,6 +1,6 @@
 {
   "name": "nobita-middleware",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "nobita-middleware",
   "main": "lib/nobita-middleware.js",
   "dependencies": {},
@@ -15,7 +15,7 @@
   ],
   "repository": { 
     "type" : "git", 
-    "url" : "https://github.com/iamtang/nobita.git"
+    "url" : "https://github.com/nobitajs/nobita.git"
   },
   "keywords": [
     "koa",
@@ -26,7 +26,7 @@
     "node": ">=8.0.0"
   },
   "bugs": {
-    "url": "https://github.com/iamtang/nobita/issues",
+    "url": "https://github.com/nobitajs/nobita/issues",
     "email": "303907720@qq.com"
   },
   "author": "JJ",
