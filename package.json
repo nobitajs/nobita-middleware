@@ -1,6 +1,6 @@
 {
   "name": "nobita-middleware",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "nobita-middleware",
   "main": "lib/nobita-middleware.js",
   "dependencies": {},
